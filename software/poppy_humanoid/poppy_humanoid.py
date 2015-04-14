@@ -38,7 +38,7 @@ class PoppyHumanoid(AbstractPoppyCreature):
         # robot.limit_torque.start()
 
         sound_file = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                  'media', 'sounds', 'error.wav')
+                                  'media', 'sounds', 'alerte-au-gogole.wav')
         robot.attach_primitive(TemperatureMonitor(robot, sound=sound_file), 'temperature_monitoring')
         robot.temperature_monitoring.start()
 
