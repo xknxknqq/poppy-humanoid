@@ -106,3 +106,10 @@ This project is initially a fundamental research project financed by [ERC Grant 
 - [Flickr](https://www.flickr.com/photos/poppy-project)
 - [Vimeo](https://vimeo.com/poppyproject)
 - [Thingiverse](http://www.thingiverse.com/poppy_project/)
+
+
+https://github.com/poppy-project/poppy-humanoid/releases  
+
+
+
+
